@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/balta/.dotnet/store/|arch|/|tfm|",
+      "/Users/balta/.nuget/packages"
+    ]
+  }
+}
